@@ -13,7 +13,7 @@ Este projeto apresenta uma análise do desempenho das quatro lojas Alura Store, 
 - Categorias de produtos
 - Produtos mais e menos vendidos
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3
 - Pandas
 - Matplotlib
@@ -38,7 +38,7 @@ Este projeto apresenta uma análise do desempenho das quatro lojas Alura Store, 
   ```
   jupyter notebook
 ```
-## 🎯 Resultados Esperados
+## Resultados Esperados
 - Identificação da loja menos eficiente.
 - Visualização dos dados analisados.
 - Visualização dos gráficos.
